@@ -1,0 +1,8 @@
+{
+  "key.telegrammod.open_gui": "Open Telegram Menu",
+  "category.telegrammod.general": "Telegram Mod",
+  "gui.telegrammod.title": "Neon Telegram",
+  "gui.telegrammod.send": "Send Message",
+  "gui.telegrammod.pin": "Pin to HUD",
+  "gui.telegrammod.unpin": "Unpin from HUD"
+}
